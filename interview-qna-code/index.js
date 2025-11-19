@@ -3,3 +3,5 @@ const setNewArr = array.filter(
   (value, index, self) => self.indexOf(value) == index
 );
 console.log(setNewArr);
+
+const apple = debounce (fun, 500)
