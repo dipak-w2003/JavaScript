@@ -1,22 +1,22 @@
-# Table of Contents
+Table of Contents
 
 - [Fundamentals](#fundamentals)
 - [What are the different data types in JavaScript?](#what-are-the-different-data-types-in-javascript)
 - [What is the difference between null and undefined?](#what-is-the-difference-between-null-and-undefined)
-- [How to Use var, let, and const Keywords](#how-to-use-var-let-and-const-keywords)
-- [What is Hoisting?](#what-is-hoisting)
-- [How Do Closures Work?](#how-do-closures-work)
-- [How to Implement Debouncing](#how-to-implement-debouncing)
-- [How to Implement Throttling](#how-to-implement-throttling)
-- [What is Currying?](#what-is-currying)
-- [What is the Difference between == and ===?](#what-is-the-difference-between-and)
-- [How Does the this Keyword Work?](#how-does-the-this-keyword-work)
-- [How to Use the call, apply and bind Methods](#how-to-use-the-call-apply-and-bind-methods)
-- [What are Prototypes and Prototypal Inheritance?](#what-are-prototypes-and-prototypal-inheritance)
-- [How to Use the Spread Operator](#how-to-use-the-spread-operator)
-- [What are Promises?](#what-are-promises)
-- [How to Use the async and await Keywords](#how-to-use-the-async-and-await-keywords)
-- [What is an Event Loop?](#what-is-an-event-loop)
+- [How to Use var, let, and const Keywords](#1-how-to-use-var-let-and-const-keywords)
+- [What is Hoisting?](#2-what-is-hoisting)
+- [How Do Closures Work?](#3-how-do-closures-work)
+- [How to Implement Debouncing](#4-how-to-implement-debouncing)
+- [How to Implement Throttling](#5-how-to-implement-throttling)
+- [What is Currying?](#6-what-is-currying)
+- [What is the Difference between == and ===?](#7-what-is-the-difference-between--and-)
+- [How Does the this Keyword Work?](#8-how-does-the-this-keyword-work)
+- [How to Use the call, apply and bind Methods](#9-how-to-use-the-call-apply-and-bind-methods)
+- [What are Prototypes and Prototypal Inheritance?](#10-what-are-prototypes-and-prototypal-inheritance)
+- [How to Use the Spread Operator](#11-how-to-use-the-spread-operator)
+- [What are Promises?](#12-what-are-promises)
+- [How to Use the async and await Keywords](#13-how-to-use-the-async-and-await-keywords)
+- [What is an Event Loop?](#14-what-is-an-event-loop)
 - [What is a callback function in JavaScript?](#what-is-a-callback-function-in-javascript)
 - [What is the purpose of the setTimeout() function in Javascript?](#what-is-the-purpose-of-the-settimeout-function-in-javascript)
 - [How can you check if an array includes a certain value?](#how-can-you-check-if-an-array-includes-a-certain-value)
@@ -477,8 +477,6 @@ document.getElementById("button").addEventListener("click", (event) => {
   console.log("Button clicked");
 });
 ```
-
-Source : Mixed
 
 ## What is a callback function in JavaScript?
 
